@@ -1,0 +1,287 @@
+{
+  "10": {
+    "stateAbbr": "DE",
+    "name": "Delaware",
+    "visited": false
+  },
+  "11": {
+    "stateAbbr": "DC",
+    "name": "District of Columbia",
+    "visited": false
+  },
+  "12": {
+    "stateAbbr": "FL",
+    "name": "Florida",
+    "visited": true
+  },
+  "13": {
+    "stateAbbr": "GA",
+    "name": "Georgia",
+    "visited": false
+  },
+  "15": {
+    "stateAbbr": "HI",
+    "name": "Hawaii",
+    "visited": false
+  },
+  "16": {
+    "stateAbbr": "ID",
+    "name": "Idaho",
+    "visited": false
+  },
+  "17": {
+    "stateAbbr": "IL",
+    "name": "Illinois",
+    "visited": false
+  },
+  "18": {
+    "stateAbbr": "IN",
+    "name": "Indiana",
+    "visited": false
+  },
+  "19": {
+    "stateAbbr": "IA",
+    "name": "Iowa",
+    "visited": false
+  },
+  "20": {
+    "stateAbbr": "KS",
+    "name": "Kansas",
+    "visited": false
+  },
+  "21": {
+    "stateAbbr": "KY",
+    "name": "Kentucky",
+    "visited": false
+  },
+  "22": {
+    "stateAbbr": "LA",
+    "name": "Louisiana",
+    "visited": false
+  },
+  "23": {
+    "stateAbbr": "ME",
+    "name": "Maine",
+    "visited": false
+  },
+  "24": {
+    "stateAbbr": "MD",
+    "name": "Maryland",
+    "visited": false
+  },
+  "25": {
+    "stateAbbr": "MA",
+    "name": "Massachusetts",
+    "visited": false
+  },
+  "26": {
+    "stateAbbr": "MI",
+    "name": "Michigan",
+    "visited": false
+  },
+  "27": {
+    "stateAbbr": "MN",
+    "name": "Minnesota",
+    "visited": false
+  },
+  "28": {
+    "stateAbbr": "MS",
+    "name": "Mississippi",
+    "visited": false
+  },
+  "29": {
+    "stateAbbr": "MO",
+    "name": "Missouri",
+    "visited": false
+  },
+  "30": {
+    "stateAbbr": "MT",
+    "name": "Montana",
+    "visited": false
+  },
+  "31": {
+    "stateAbbr": "NE",
+    "name": "Nebraska",
+    "visited": false
+  },
+  "32": {
+    "stateAbbr": "NV",
+    "name": "Nevada",
+    "visited": true
+  },
+  "33": {
+    "stateAbbr": "NH",
+    "name": "New Hampshire",
+    "visited": false
+  },
+  "34": {
+    "stateAbbr": "NJ",
+    "name": "New Jersey",
+    "visited": true
+  },
+  "35": {
+    "stateAbbr": "NM",
+    "name": "New Mexico",
+    "visited": true
+  },
+  "36": {
+    "stateAbbr": "NY",
+    "name": "New York",
+    "visited": true
+  },
+  "37": {
+    "stateAbbr": "NC",
+    "name": "North Carolina",
+    "visited": false
+  },
+  "38": {
+    "stateAbbr": "ND",
+    "name": "North Dakota",
+    "visited": false
+  },
+  "39": {
+    "stateAbbr": "OH",
+    "name": "Ohio",
+    "visited": true
+  },
+  "40": {
+    "stateAbbr": "OK",
+    "name": "Oklahoma",
+    "visited": false
+  },
+  "41": {
+    "stateAbbr": "OR",
+    "name": "Oregon",
+    "visited": false
+  },
+  "42": {
+    "stateAbbr": "PA",
+    "name": "Pennsylvania",
+    "visited": true
+  },
+  "44": {
+    "stateAbbr": "RI",
+    "name": "Rhode Island",
+    "visited": false
+  },
+  "45": {
+    "stateAbbr": "SC",
+    "name": "South Carolina",
+    "visited": false
+  },
+  "46": {
+    "stateAbbr": "SD",
+    "name": "South Dakota",
+    "visited": false
+  },
+  "47": {
+    "stateAbbr": "TN",
+    "name": "Tennessee",
+    "visited": false
+  },
+  "48": {
+    "stateAbbr": "TX",
+    "name": "Texas",
+    "visited": false
+  },
+  "49": {
+    "stateAbbr": "UT",
+    "name": "Utah",
+    "visited": true
+  },
+  "50": {
+    "stateAbbr": "VT",
+    "name": "Vermont",
+    "visited": false
+  },
+  "51": {
+    "stateAbbr": "VA",
+    "name": "Virginia",
+    "visited": true
+  },
+  "53": {
+    "stateAbbr": "WA",
+    "name": "Washington",
+    "visited": false
+  },
+  "54": {
+    "stateAbbr": "WV",
+    "name": "West Virginia",
+    "visited": true
+  },
+  "55": {
+    "stateAbbr": "WI",
+    "name": "Wisconsin",
+    "visited": false
+  },
+  "56": {
+    "stateAbbr": "WY",
+    "name": "Wyoming",
+    "visited": false
+  },
+  "60": {
+    "stateAbbr": "AS",
+    "name": "American Samoa",
+    "visited": false
+  },
+  "66": {
+    "stateAbbr": "GU",
+    "name": "Guam",
+    "visited": false
+  },
+  "69": {
+    "stateAbbr": "MP",
+    "name": "Northern Mariana Islands",
+    "visited": false
+  },
+  "72": {
+    "stateAbbr": "PR",
+    "name": "Puerto Rico",
+    "visited": false
+  },
+  "74": {
+    "stateAbbr": "UM",
+    "name": "U.S. Minor Outlying Islands",
+    "visited": false
+  },
+  "78": {
+    "stateAbbr": "VI",
+    "name": "U.S. Virgin Islands",
+    "visited": false
+  },
+  "01": {
+    "stateAbbr": "AL",
+    "name": "Alabama",
+    "visited": false
+  },
+  "02": {
+    "stateAbbr": "AK",
+    "name": "Alaska",
+    "visited": false
+  },
+  "04": {
+    "stateAbbr": "AZ",
+    "name": "Arizona",
+    "visited": true
+  },
+  "05": {
+    "stateAbbr": "AR",
+    "name": "Arkansas",
+    "visited": false
+  },
+  "06": {
+    "stateAbbr": "CA",
+    "name": "California",
+    "visited": true
+  },
+  "08": {
+    "stateAbbr": "CO",
+    "name": "Colorado",
+    "visited": false
+  },
+  "09": {
+    "stateAbbr": "CT",
+    "name": "Connecticut",
+    "visited": false
+  }
+}
