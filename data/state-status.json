@@ -7,7 +7,7 @@
   "11": {
     "stateAbbr": "DC",
     "name": "District of Columbia",
-    "visited": false
+    "visited": true
   },
   "12": {
     "stateAbbr": "FL",
@@ -32,7 +32,7 @@
   "17": {
     "stateAbbr": "IL",
     "name": "Illinois",
-    "visited": false
+    "visited": true
   },
   "18": {
     "stateAbbr": "IN",
@@ -212,7 +212,7 @@
   "55": {
     "stateAbbr": "WI",
     "name": "Wisconsin",
-    "visited": false
+    "visited": true
   },
   "56": {
     "stateAbbr": "WY",
